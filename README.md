@@ -1,4 +1,4 @@
-## Hi 👋, This is Unbreakablery
+## Hi 👋,
 [![Gmail Badge](https://img.shields.io/badge/-unbreakablery@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:unbreakablery@gmail.com)](mailto:unbreakablery@gmail.com) [![Github Badge](https://img.shields.io/badge/-unbreakablery-grey?style=flat&logo=github&logoColor=white&link=https://github.com/unbreakablery/)](https://www.github.com/unbreakablery/) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=unbreakablery alt=unbreakablery /> </p>
 
