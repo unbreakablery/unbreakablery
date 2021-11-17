@@ -9,6 +9,12 @@ High quality: as this is what you are paying for, and will reduce any time requi
 Being a highly mission focused and driven individual, I thrive when there are well planned out tasks to undertake. I will loyally devote my time to create the most efficient and presentable solution to clients, and will not stop until I have achieved my objective.
 
 Work Experience Summary: Over the past several years I have undergone a lot of online training to successfully deliver projects in most of the main programming languages and database protocol.
+  
+Developed lots of global websites, online quiz/exam web app, business web dashboards, e-commerce, appointment, dating and internal business websites according to company workflow using PHP/MySQL/MariaDB, Laravel v5.x & 8.0/RESTful APIs and JavaScript/VueJS.
+Especially, recently for 3 years, accepted, adjusted and altered Blockchain, Cryptocurrency, Decentralized/Distributed/Oftentimes Public/Digital Ledger technologies into my stack. 
+Dedicated and efficient full stack developer with 10 years experience in application layers, presentation layers, and databases. 
+Certified in both front-end and back-end technologies. Spearheaded successful transition from LAMP/MEAN/MERN stack to Blockchain which cut latency by 40% and increased effectiveness of my earning by 20%.
+Passionate about web and blockchain high technologies. 
 
 Main skills are :
 
@@ -23,7 +29,20 @@ Main skills are :
 - Building a website from scratch and templates/themes
 - Vuex and Vuetify
 - MEAN and MERN stack
-- Working with GitHub, GitLab, Trello, Jira, Asana
+- Working with GitHub, GitLab, Bitbucket, Trello, Jira, Asana
+  
+Blockchain:
+  
+- Blockchain / Ethereum / Smart Contracts / Solidity / Truffle / Web3.js / ERC20 Tokens / ERC721 Tokens / ERC1155 Tokens / DApp
+- Public Blockchain Platforms:
+  Ethereum, Bitcoin, Solidity
+  NFTs Mint, Opensea, Auto generating images by Python
+  Cryptocurrency lottery game
+  Yield Farming
+  Developing smart contracts using a Solidity programming language.
+  Developing RPC using client libraries such as Web3.
+  Static analysis of smart contracts for gas consumption and optimization using Remix IDE.
+  Deploying smart contracts on test networks such as ropsten/rinkeby as well as Ethereum mainnet.
 
 I see web development as a "learning to learn" sort of job where I am continually learning, as things are continually enhanced there is never a week where there are no new technological advancements.
 
