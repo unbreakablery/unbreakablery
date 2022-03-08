@@ -1,6 +1,6 @@
 ## Hi 👋,
 [![Gmail Badge](https://img.shields.io/badge/-unbreakablery@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:unbreakablery@gmail.com)](mailto:unbreakablery@gmail.com) or [![Gmail Badge](https://img.shields.io/badge/-goldminer062304291112@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:goldminer062304291112@gmail.com)](mailto:goldminer062304291112@gmail.com) 
-<p>[![Github Badge](https://img.shields.io/badge/-unbreakablery-grey?style=flat&logo=github&logoColor=white&link=https://github.com/unbreakablery/)](https://www.github.com/unbreakablery/) </p>
+[![Github Badge](https://img.shields.io/badge/-unbreakablery-grey?style=flat&logo=github&logoColor=white&link=https://github.com/unbreakablery/)](https://www.github.com/unbreakablery/) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=unbreakablery alt=unbreakablery /> </p>
 
 <p align='left'>One of my key objectives as a developer is to ensure that all work is done in a high-quality timely manner.
