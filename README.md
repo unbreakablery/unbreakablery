@@ -13,9 +13,9 @@ Work Experience Summary: Over the past several years I have undergone a lot of o
   
 Developed lots of global websites, online quiz/exam web app, business web dashboards, e-commerce, appointment, dating and internal business websites according to company workflow using PHP/MySQL/MariaDB, Laravel v5.x & 8.0/RESTful APIs and JavaScript/VueJS.
 
-Especially, recently for 5 years, accepted, adjusted and altered Blockchain, Cryptocurrency, Decentralized/Distributed/Oftentimes Public/Digital Ledger technologies into my stack. 
+Especially, recently for 3 years, accepted, adjusted and altered Blockchain, Cryptocurrency, Decentralized/Distributed/Oftentimes Public/Digital Ledger technologies into my stack. 
 
-Dedicated and efficient full stack developer with 10 years experience in application layers, presentation layers, and databases. 
+Dedicated and efficient full stack developer with 5 years experience in application layers, presentation layers, and databases. 
 
 Certified in both front-end and back-end technologies. 
 
