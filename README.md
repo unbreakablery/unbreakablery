@@ -23,18 +23,19 @@ Passionate about web and blockchain high technologies.
 
 Main skills are :
 
-- PHP v5.x, 7.x & 8, MySQL/MariaDB
-- Object Oriented Programming in PHP, DDL, DCL, DML, DQL, TCL, Views, Stored Procedures, Functions, Transactions and Triggers
-- Laravel v5.x & 8 + Vue v2 & 3
-- RESTful APIs
+- Python, Flask(APIs, Swagger)
+- NodeJS, Express, MongoDB, GraphQL
+- React, Redux, Next
+- Vue v2 & 3, Vuex and Vuetify, Nuxt
+- PHP v5.x, 7.x & 8, MySQL/MariaDB, PostgreSQL
+- OOP & custom PHP & LAMP stack
+- Laravel v5.x & 8 (RESTful APIs, Eloquent, Repository, Service, Transformer, Auth, ServiceProvider, Helper,  Events, Schedules, and Blade Component,  Websockets, Pusher PHP server, Echo, Broadcast, Notification)
 - Html 4&5, CSS 2&3, Bootstrap 3,4,5, Tailwind CSS, Mobile Friendly Responsive
-- JavaScript, JQuery, and plugins, AJAX, and JSON
+- JavaScript, JQuery, and plugins, AJAX, JSON
+- Team working with GitHub, GitLab, Docker, Trello, Jira, Asana, Slack, Discord
+- Building a website from scratch and templates/themes
 - PSD, Figma to HTML&CSS(fast speed).
 - SEO friendly
-- Building a website from scratch and templates/themes
-- Vue2 & 3, Vuex and Vuetify
-- MEAN and MERN stack
-- Working with GitHub, GitLab, Bitbucket, Trello, Jira, Asana
   
 Blockchain:
   
