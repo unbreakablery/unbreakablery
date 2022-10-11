@@ -25,13 +25,14 @@ Main skills are :
 
 - Python, Flask(APIs, Swagger)
 - NodeJS, Express, MongoDB, GraphQL
+- JavaScript/ES5/ES6/TypeScript
 - React, Redux, Next(JSX/TSX, ReactDOM, Functional/Class/Styled Component, Props/State, Router, Event, Effect, Hook, Thunk, Reducer, Selector)
 - Vue v2 & 3, Vuex and Vuetify, Nuxt
 - PHP v5.x, 7.x & 8, MySQL/MariaDB, PostgreSQL
 - OOP & custom PHP & LAMP stack
 - Laravel v5.x & 8 (RESTful APIs, Eloquent, Repository, Service, Transformer, Auth, ServiceProvider, Helper,  Events, Schedules, and Blade Component,  Websockets, Pusher PHP server, Echo, Broadcast, Notification)
 - Html 4&5, CSS 2&3, Bootstrap 3,4,5, Tailwind CSS, Mobile Friendly Responsive
-- JavaScript, JQuery, and plugins, AJAX, JSON
+- JQuery, and plugins, AJAX, JSON
 - Team working with GitHub, GitLab, Docker, Trello, Jira, Asana, Slack, Discord
 - Building a website from scratch and templates/themes
 - PSD, Figma to HTML&CSS(fast speed).
