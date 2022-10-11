@@ -25,7 +25,7 @@ Main skills are :
 
 - Python, Flask(APIs, Swagger)
 - NodeJS, Express, MongoDB, GraphQL
-- React, Redux, Next
+- React, Redux, Next(JSX/TSX, ReactDOM, Functional/Class/Styled Component, Props/State, Router, Event, Effect, Hook, Thunk, Reducer, Selector)
 - Vue v2 & 3, Vuex and Vuetify, Nuxt
 - PHP v5.x, 7.x & 8, MySQL/MariaDB, PostgreSQL
 - OOP & custom PHP & LAMP stack
